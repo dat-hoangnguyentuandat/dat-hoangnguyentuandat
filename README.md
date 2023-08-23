@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Kur0ya <img src="https://github.com/Kur0ya/Kur0ya/blob/main/Hello.gif" width="5%"></a> Welcome to my GitHub profile</h1>
 
 <p align="center">
-  <a href="https://github.com/Kur0ya"><img src="https://github-readme-stats.vercel.app/api?username=Kur0ya&show_icons=true&theme=transparent"></a>
+  <a href="https://github.com/Kuro"><img src="https://github-readme-stats.vercel.app/api?username=Kur0ya&show_icons=true&theme=transparent"></a>
 </p>
 
 <h1 align="center">Programming Languages</h1>
