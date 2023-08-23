@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Kuro-z04/Kuro-z04/blob/main/Banner.gif"><img src="Klee.gif" alt="Banner"></a>
+  <a href="https://github.com/Kuro-z04/Kuro-z04/blob/main/Banner.gif"><img src="Banner.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm Kuro <img src="https://github.com/Kuro-z04/Kuro-z04/blob/main/Image/Hello.gif" width="5%"></a> Welcome to my GitHub profile</h1>
