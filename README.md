@@ -13,11 +13,6 @@
 <a <h1 align="center"><img src = 'https://github.com/Kuro-z04/Kuro-z04/blob/main/Kuro/C.svg' width='50'/> <img src = 'https://github.com/Kuro-z04/Kuro-z04/blob/main/Kuro/CPP.svg' width='50'/></a>
 </p>
 
-<p align="center">
-  <strong><a href="https://www.facebook.com/hoangdatlnbp/">Facebook</a></strong> |
-  <strong><a href="https://twitter.com/Kuro_0z3">Twitter</a></strong>
-</p>
-
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
