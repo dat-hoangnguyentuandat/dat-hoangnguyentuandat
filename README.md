@@ -10,7 +10,7 @@
 
 <h1 align="center">Programming Languages</h1>
 <p align="center">
-<a <h1 align="center"><img src = 'https://github.com/Kuro-z04/Kuro-z04/blob/main/Kuro/C.svg' width='50'/> <img src = 'https://github.com/Kur0ya/Kur0ya/blob/main/CPP.svg' width='50'/></a>
+<a <h1 align="center"><img src = 'https://github.com/Kuro-z04/Kuro-z04/blob/main/Kuro/C.svg' width='50'/> <img src = 'https://github.com/Kuro-z04/Kuro-z04/blob/main/Kuro/CPP.svg' width='50'/></a>
 </p>
 
 <p align="center">
