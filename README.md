@@ -14,7 +14,7 @@
   <img src = 'https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/C.svg' width='50'/>
   <img src = 'https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/CPP.svg' width='50'/> 
   <img src = 'https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/Dart.svg' width='45'/>
-  <img src = 'https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/CSharp.svg' width='50'/>
+  <img src = 'https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/CSharp.svg' width='60'/>
 </a>
 </p>
 
