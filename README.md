@@ -18,19 +18,19 @@
 
 ---
 
+<h1 align="center">📊 LeetCode Stats</h1>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hoangdatlnbp?ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 <h1 align="center">🧠 Programming Languages</h1>
 <p align="center">
   <img src='https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/C.svg' width='50'/>
   <img src='https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/CPP.svg' width='50'/> 
   <img src='https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/Dart.svg' width='45'/>
   <img src='https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/Csharp.svg' width='45'/>
-</p>
-
----
-
-<h1 align="center">📊 LeetCode Stats</h1>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/hoangdatlnbp?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <!--
