@@ -14,6 +14,7 @@
   <img src = 'https://github.com/Kuro-z04/Kuro-z04/blob/main/Image/C.svg' width='50'/>
   <img src = 'https://github.com/Kuro-z04/Kuro-z04/blob/main/Image/CPP.svg' width='50'/> 
   <img src = 'https://github.com/Kuro-z04/Kuro-z04/blob/main/Image/Dart.svg' width='45'/>
+  <img src = 'https://github.com/Kuro-z04/Kuro-z04/blob/main/Image/C#.svg' width='45'/>
 </a>
 </p>
 
