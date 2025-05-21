@@ -2,7 +2,7 @@
   <a href="https://github.com/Kuro-z04/Kuro-z04/blob/main/Banner.gif"><img src="Banner.gif" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm Kuro <img src="https://github.com/Kuro-z04/Kuro-z04/blob/main/Image/Hello.gif" width="5%"></a> Welcome to my GitHub profile</h1>
+<h1 align="center">Hi, I'm Đạt <img src="https://github.com/Kuro-z04/Kuro-z04/blob/main/Image/Hello.gif" width="5%"></a> Welcome to my GitHub profile</h1>
 
 <p align="center">
   <a href="https://github.com/Kuro-z04"><img src="https://github-readme-stats.vercel.app/api?username=Kuro-z04&show_icons=true&theme=transparent"></a>
