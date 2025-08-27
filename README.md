@@ -33,6 +33,15 @@
   <img src='https://github.com/dat-hoangnguyentuandat/dat-hoangnguyentuandat/blob/main/Image/Csharp.svg' width='45'/>
 </p>
 
+---
+
+<h1 align="center">🎮 GitHub Contributions Breakout</h1>
+<p align="center">
+  <img src="images/breakout-light.svg" alt="Breakout Game (Light)">
+  <img src="images/breakout-dark.svg" alt="Breakout Game (Dark)">
+</p>
+
+
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
