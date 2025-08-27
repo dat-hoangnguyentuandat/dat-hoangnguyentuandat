@@ -2,8 +2,8 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # Chạy mỗi ngày
-  workflow_dispatch:  # Cho phép chạy thủ công
+    - cron: "0 */24 * * *" # Chạy mỗi ngày
+  workflow_dispatch: # Chạy thủ công
 
 jobs:
   generate-svg:
@@ -16,24 +16,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
+      - name: Generate Breakout SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
 
-      - name: Move generated SVGs
+      - name: Move SVGs
         run: |
           mkdir -p images
           mv output/light.svg images/breakout-light.svg
           mv output/dark.svg images/breakout-dark.svg
 
-      - name: Configure git
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit and push SVGs
-        run: |
           git add images/breakout-light.svg images/breakout-dark.svg
-          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
+          git commit -m "Update breakout SVGs" || echo "No changes"
           git push
