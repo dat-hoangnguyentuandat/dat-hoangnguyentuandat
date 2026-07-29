@@ -1,0 +1,50 @@
+name: generate profile card
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "assets/portrait-ascii.png"
+      - "assets/portrait-ascii.gif"
+      - "scripts/generate_ascii_portrait.py"
+      - "scripts/generate_profile_card.py"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install image dependency
+        run: python -m pip install --disable-pip-version-check pillow==11.3.0
+
+      - name: Generate animated portrait
+        run: python scripts/generate_ascii_portrait.py
+
+      - name: Generate profile card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_profile_card.py
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/portrait-ascii.gif assets/profile-terminal.svg assets/profile-stats.json
+          git diff --cached --quiet || git commit -m "Update profile card"
+          git push
