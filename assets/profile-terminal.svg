@@ -20,7 +20,7 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Libe
 <text x="500" y="54" class="title">dat@github</text>
 <line x1="650" y1="48" x2="1140" y2="48" stroke="#8b949e" stroke-width="2"/>
 <text x="500" y="86"><tspan class="label">OS:</tspan> <tspan class="dots">··························</tspan> <tspan class="value">Windows 11, Android 16, Linux</tspan></text>
-<text x="500" y="114"><tspan class="label">Uptime:</tspan> <tspan class="dots">······················</tspan> <tspan class="value">5 years, 1 month, 5 days</tspan></text>
+<text x="500" y="114"><tspan class="label">Uptime:</tspan> <tspan class="dots">······················</tspan> <tspan class="value">5 years, 1 month, 6 days</tspan></text>
 <text x="500" y="142"><tspan class="label">IDE:</tspan> <tspan class="dots">·························</tspan> <tspan class="value">Visual Studio 2026</tspan></text>
 <text x="500" y="190"><tspan class="label">Languages.Programming:</tspan> <tspan class="dots">·······</tspan> <tspan class="value">C#, Java</tspan></text>
 <text x="500" y="218"><tspan class="label">Languages.Frameworks:</tspan> <tspan class="dots">········</tspan> <tspan class="value">ASP.NET Core, EF Core, WinUI 3</tspan></text>
@@ -41,12 +41,12 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Libe
 <text x="900" y="538" class="label">Stars:</text>
 <text x="1035" y="538" class="value">28</text>
 <text x="500" y="566" class="label">Commits:</text>
-<text x="610" y="566" class="value">524</text>
+<text x="610" y="566" class="value">520</text>
 <text x="870" y="566" class="label">|</text>
 <text x="900" y="566" class="label">Followers:</text>
 <text x="1035" y="566" class="value">3</text>
 <text x="500" y="594" class="label">Lines of Code on GitHub:</text>
-<text x="775" y="594" class="value">2,981,136</text>
-<text x="900" y="594" class="green">( 3,038,834++</text>
-<text x="1045" y="594" class="red">57,698-- )</text>
+<text x="775" y="594" class="value">390,888</text>
+<text x="900" y="594" class="green">( 443,203++</text>
+<text x="1045" y="594" class="red">52,315-- )</text>
 </svg>
